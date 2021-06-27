@@ -15,4 +15,4 @@ __AC__:
  - Do a good job. 
 ---
 
-__Story Point:__
+__Story Point:__ 100
