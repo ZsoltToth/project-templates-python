@@ -1,0 +1,8 @@
+logs
+**/*.log
+
+Pipfile.lock
+
+.idea
+
+**/__pycache__
