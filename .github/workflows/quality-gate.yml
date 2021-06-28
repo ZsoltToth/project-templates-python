@@ -25,5 +25,5 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: Unittests
+      - name: Unit Tests and Coverage
         uses: ./.github/actions/docker-unittest
