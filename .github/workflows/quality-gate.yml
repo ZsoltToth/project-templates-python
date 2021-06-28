@@ -1,4 +1,4 @@
-name: Pylint
+name: Quality Gate
 
 on:
   push:
